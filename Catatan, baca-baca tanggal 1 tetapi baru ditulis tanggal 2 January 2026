@@ -1,0 +1,18 @@
+
+Cyber Security secara sederhananya adalah sebuah praktik untuk melindungi sistem koputer, peraangkat, jaringan hingga data dari segala bentuk macam-macam kejahatan atau serangan digital.
+Dalam dunia cyber security ada 3 konsep yang di sebut CIA TRIAD yaitu:
+- Confidentality (kerahasiaan), yang maksudnya hanya bisa di akses oleh orang yang berhak.
+- Integrity (integritas), data yang ada akurat dan tidak bisa di ubah oleh orang yang tidak berhak.
+- Availability (ketersediaan), memastikan sistem dan data bisa di akses pada saat dibutuhkan.
+
+Perbedaan hacker, pentest, red team dan blue team:
+- Hacker adalah nama skill bukan job, semua orang yang bisa melakukan manipulasi data atau sistem komputer bisa disebut hacker.
+- Pentest (penetration tester) baru sebuah job atau pekerjaan, yang mana seorang profesional yang biasanya dibutuhkan untuk mencari sebuah celah keamanan spesifik, semacam auditor untuk mencari vulnerability atau kerentanan.
+- Red Team (offensive), yang melakukan simulasi serangan terhadap suatu sitem.
+- Blue Team (defensive), yang mencegah serangan, mendeteksi penyusup dan melakukan pemeliharaan secara berkala agar sistem aman.
+
+Mengapa cyber security dibutuhkan? karena sudah pasti dunia secara fundamental sudah berubah, yang dulunya serba manual sekarang semua mayoritas menggunakan teknology dan internt. Oleh karena itu kejahatan makin banyak melalui digital dan karena itu juga dibutuhkannya cyber secrity sampai kapanpun.
+IP address = ibarat alamat rumah, misal = 192.268.1.2
+Port = jalan menuju rumah itu, misal = 8080
+Server = rumah itu sendiri, tempat untuk menyimpan dll
+Client = tamu
